@@ -1,0 +1,6 @@
+{
+  "name": "ระบบจัดการห้องสมุด ยืม-คืนหนังสือ (Library Hub)",
+  "description": "ระบบบริหารจัดการห้องสมุด คลังรายการหนังสือ บันทึกการยืม-คืน ตรวจสอบสถานะหนังสือที่ถูกยืม และรายงานการคืนเกินกำหนด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
